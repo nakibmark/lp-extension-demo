@@ -8,5 +8,5 @@
         "matches": ["*://*.lastpass.com/*"],
         "js": ["contentScript.js"],
         "run_at": "document_idle"
-    }],
+    }]
 }

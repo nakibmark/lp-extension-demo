@@ -1,0 +1,6 @@
+{
+    "name": "Mark's Demo Extension",
+    "version": "0.1",
+    "description": "A Chrome extension demo application made to show my chops",
+    "manifest_version": 2
+}

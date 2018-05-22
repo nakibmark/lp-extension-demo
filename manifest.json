@@ -7,6 +7,8 @@
     "content_scripts": [{
         "matches": ["*://*.lastpass.com/*"],
         "js": ["contentScript.js"],
+        "css": ["modal.css"],
         "run_at": "document_idle"
-    }]
+    }],
+    "web_accessible_resources": ["modal.html"]
 }
